@@ -1,5 +1,5 @@
 {
-  "homepage": "http://asim-thoughtwin.github.io/linkedin", 
+  "homepage": "http://asim-thoughtwin.github.io/linkedin",
   "name": "linkedin",
   "version": "0.1.0",
   "private": true,
@@ -27,8 +27,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "build": "react-scripts build && cp build/index.html build/404.html"
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
