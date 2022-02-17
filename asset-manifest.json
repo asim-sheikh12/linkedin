@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.eaa50255.css",
-    "main.js": "/my-app/static/js/main.a2a6c455.js",
-    "index.html": "/my-app/index.html",
-    "main.eaa50255.css.map": "/my-app/static/css/main.eaa50255.css.map",
-    "main.a2a6c455.js.map": "/my-app/static/js/main.a2a6c455.js.map"
+    "main.css": "/linkedin/static/css/main.eaa50255.css",
+    "main.js": "/linkedin/static/js/main.037a6ba9.js",
+    "index.html": "/linkedin/index.html",
+    "main.eaa50255.css.map": "/linkedin/static/css/main.eaa50255.css.map",
+    "main.037a6ba9.js.map": "/linkedin/static/js/main.037a6ba9.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa50255.css",
-    "static/js/main.a2a6c455.js"
+    "static/js/main.037a6ba9.js"
   ]
 }
